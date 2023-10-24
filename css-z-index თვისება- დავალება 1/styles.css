@@ -1,0 +1,36 @@
+.box1{
+    margin-top: 11px;
+    margin-left: 12px;
+    width: 233px;
+    height: 192px;
+    background-color: #FC0000;
+    position: absolute;
+    z-index: 4;
+}
+.box2{
+    margin-top: 107px;
+    margin-left: 128px;
+    width: 233px;
+    height: 192px;
+    background-color: #05FC00;
+    position: absolute;
+    z-index: 3;
+}
+.box3{
+    margin-top: 253px;
+    margin-left: 314px;
+    width: 233px;
+    height: 192px;
+    background-color:#F7FC00;
+    position: absolute;
+    z-index: 2;
+}
+.box4{
+    margin-top: 203px;
+    margin-left: 244px;
+    width: 233px;
+    height: 192px;
+    background-color:#000AFC;
+    position: absolute;
+    z-index: 1;
+}
